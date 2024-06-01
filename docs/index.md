@@ -1,6 +1,5 @@
 ---
 title: Office & Word
-layout: default
 ---
 
 - [word](1-word)

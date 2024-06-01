@@ -1,6 +1,5 @@
 ---
 title: Excel
-layout: default
 ---
 
 **Elenco studenti con voto** faccio media
