@@ -1,4 +1,7 @@
-# Excel
+---
+title: Excel
+layout: default
+---
 
 **Elenco studenti con voto** faccio media
 **Caratteristiche prodotto** per trovare migliore

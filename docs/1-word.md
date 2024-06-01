@@ -1,4 +1,7 @@
-# Word
+---
+title: Word
+layout: default
+---
 
 ### Files e formati
 
