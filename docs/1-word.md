@@ -27,6 +27,9 @@ Operazioni su file
 > - Modifica il documento per farlo tuo, indicando altre esigenze per lo spettacolo, ma soprattutto segnala quello che vuoi trovare nel tuo camerino (puoi chiedere tutto quello che vuoi) nella sezione Catering
 > - Esporta il file come **pdf** in modo che non possa essere modificato facilmente da altri. 
 
+
+---
+
 ### Tipografia
 - fonts 
 - serif e sans serif
@@ -42,11 +45,12 @@ Operazioni su file
 > - Sistema le immagini del file
 > - Modifica il titolo di copia, inserendo qualcosa ed esportala come pdf. 
 
-> **Fonti aggiuntive**  
+> **Risorse aggiuntive**  
 > [Google fonts](https://fonts.google.com/)
 
+---
 
-## Layout
+### Layout
 
 elenchi (tab)
 
@@ -60,8 +64,8 @@ header footer e numero pagina
 
 Tabelle per il layout
 
-
-## Altro
+---
+### Altro
 
 Immagini
 
@@ -70,7 +74,8 @@ dimensioni, rapporto con testo
 Link url, mail
 
 > stock images
-> 
+
+---
 
 > **ES: l'articolo** (tipo blog)
 >

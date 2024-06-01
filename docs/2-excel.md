@@ -14,6 +14,7 @@ title: "Excel"
 >
 > Per ogni prodotto calcola il costo totale, moltiplicando le colonne `prezzo` e `quantità` in una nuova colonna e poi ottieni il costo totale
 
+---
 
 ### fogli, celle e colonne 
 
